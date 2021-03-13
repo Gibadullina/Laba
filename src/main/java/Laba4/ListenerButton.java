@@ -33,10 +33,10 @@ public class ListenerButton implements ActionListener {
 			information.setBounds(500,400,400,400);
 			information.setResizable(false);
 			
-			JLabel user1 = new JLabel("Газин Д.Р., ПИ-221, зачетка номер: 339");
-			JLabel user2 = new JLabel("Катасонов С.А., ПИ-221, зачетка номер: 167");
+			JLabel user1 = new JLabel("Газин Д.Р., ПИ-221, зачетка номер: 339, 13/03/2021");
+			JLabel user2 = new JLabel("Катасонов С.А., ПИ-221, зачетка номер: 167, 13/03/2021");
 			JLabel user3 = new JLabel("Гибадуллина Э. Ю., ПИ-221, зачетка номер: 147");
-			JLabel user4 = new JLabel("Рафиков Д.Р., ПИ-221, зачетка номер: 156");
+			JLabel user4 = new JLabel("Рафиков Д.Р., ПИ-221, зачетка номер: 156, 13/03/2021");
 			JLabel file_info = new JLabel("Данные из файла: ");
 			JLabel test = new JLabel("");
 			
